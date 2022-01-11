@@ -1,0 +1,177 @@
+.body{
+	color : white;
+	font-family: "avenir next";
+}
+li {
+	list-style: none;
+	text-align: center;
+	border-radius: 10px ;
+}
+.kop{
+	background-color:#00008B;
+	padding: 10px;
+	color: white;
+}
+
+.header {
+	background-color : #AED6F1 ;
+	color : yellow ;
+	height : 90px ;
+	font-family: arial black;
+}
+
+.header-logo1 {
+	float: left;
+	padding: 10px 30px;
+}
+.header-logo2 {
+	font-size:36px;
+	float:right;
+	padding:15px 30px;
+	border-radius: 5px;
+	border:5px solid #00008B ;
+	background-color: red;
+}
+.header-logo2:hover {
+	background-color: blue;
+	color: red;
+}
+.header-list li:hover {
+	  background-color: #7FFF00; 
+	  color: yellow;
+}
+.header img {
+	border-color: #00008B;
+	border-radius : 15px ;
+	border-style : solid;
+}
+.header li {
+	background-color :#0000FF ;
+	float: left;
+	margin :23px ;
+	border-radius : 15px 15px 15px 15px ;
+	display : block ;
+	position : relative ;
+	padding: 10px 10px;
+	padding-left : 10px ;
+	color : white;
+	border : 2px solid #00008B ;
+}
+
+.main {
+	padding: 100px 80px;
+	background-color : #F0FFFF ;
+}
+
+.section-title {
+	border-bottom: 2px solid #dee7ec;
+	font-size: 28px;
+	padding-bottom: 15px;
+	margin-bottom: 15px ;
+}
+.copy-container {
+	padding-bottom : 5px ;
+	background-color: white ;
+}
+.copy-container img{
+	width: 800px;
+	height: 250px;
+}
+.copy-container span{
+	color: red ;
+}
+
+
+.contents {
+	height:350 px ;
+	background-color : white;
+	padding-bottom :120px ;
+}
+
+.contents-item {
+	float: left ;
+	margin-right : 60px ;
+
+}
+
+.contents-item img {
+	width: 70px;
+	height: 70px;
+	border : 1px solid black ;
+}
+.contents-item p {
+	font-size: 12px;
+	text-align: center;
+}
+.section-title {
+	border-bottom: 2px solid #dee7ec;
+	font-size: 28px;
+	padding-bottom: 15px;
+	margin-bottom: 50px;
+}
+.contact-item {
+	float: left ;
+	margin-right : 50px ;
+}
+
+
+.contact-form {
+	height:350 px ;
+	background-color : white;
+	padding-bottom :550px ;
+	color : red ;
+}
+.contact-form p {
+color : black ;
+
+}
+.contact-item img  {
+ border : 1px solid black ;
+ width: 200px;
+height: 200px;
+}
+
+.contact-form p{
+  font-size: 14px;
+	  text-align:center;
+	  margin-top: 30px;
+	  border:2px solid black;
+	  border-radius:10px;
+	  background-color: red;
+	  color:white
+}
+
+.contact-form p:hover {
+	  background-color: blue; 
+	  color: yellow;
+}
+
+
+.info {
+	color : black ;
+	background-color :white ;
+	margin-bottom : 5 px;
+	padding-bottom : 20px ;
+}
+
+.footer {
+	background-color: #FF7F50;
+	color: #fff;
+	height: 70px;
+	padding: 70px;
+}
+
+.footer-logo {
+	font-size: 32px;
+	float: left;
+}
+.footer-list {
+	float: right;
+	text-align : right;
+	font-size: 15px;
+}
+.footer-item p{
+	font-size: 15px;
+	text-align: center;
+	color: white;
+{
